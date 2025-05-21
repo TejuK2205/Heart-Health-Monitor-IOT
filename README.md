@@ -105,13 +105,26 @@ Enhance model accuracy with more data and epochs
 
 ---
 
+## 👩‍💻 Author
+
+**Tejaswini K**  
+B.Tech Artificial Intelligence & Data Science  
+Madras Institute of Technology, Anna University  
+
+- 📧 [tejaswinik2205@gmail.com](mailto:tejaswinik2205@gmail.com)  
+- 🌐 [GitHub](https://github.com/TejuK2205)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tejaswini-k-6416b0263/)
+
+---
+
 ## License
 This project is open-source and free to use under the MIT License.
 
 ---
 
 ## Acknowledgements
-ThingSpeak API by MathWorks
-Blynk IoT Platform
-TensorFlow for Deep Learning
+
+1. ThingSpeak API by MathWorks
+2. Blynk IoT Platform
+3. TensorFlow for Deep Learning
 ---
