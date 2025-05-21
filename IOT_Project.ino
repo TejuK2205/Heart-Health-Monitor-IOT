@@ -3,11 +3,11 @@
 #include <DHT.h>
 #include "MAX30100_PulseOximeter.h"
 
-const char* ssid = "Redmi 10A";
-const char* password = "kavisaran2426";
+const char* ssid = "ssid";
+const char* password = "password";
 
-const char* apiKey = "E4NV36VDL9CYRGEB";
-unsigned long channelID = 2933580;
+const char* apiKey = "apikey";
+unsigned long channelID = 1234560;
 WiFiClient client;
 
 PulseOximeter pox;
